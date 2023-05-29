@@ -1,0 +1,51 @@
+{
+	"name": "rwn-records",
+	"version": "1.0.0",
+	"private": true,
+	"description": "",
+	"keywords": [
+		"chayns",
+		"react"
+	],
+	"homepage": ".",
+	"scripts": {
+		"build": "CI=false && react-scripts build",
+		"dev": "react-scripts start",
+		"format": "prettier . --write",
+		"start": "react-scripts start"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"prettier": {
+		"proseWrap": "always",
+		"singleQuote": false,
+		"tabWidth": 4,
+		"useTabs": true
+	},
+	"dependencies": {
+		"@types/chayns-components": "github:lukas-nielsen/types-chayns-components",
+		"chayns-api": "^1.0.24",
+		"chayns-components": "^4.29.6",
+		"prop-types": "^15.8.1",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-scripts": "^5.0.1"
+	},
+	"devDependencies": {
+		"@types/react": "^18.2.7",
+		"@types/react-dom": "^18.2.4",
+		"prettier": "^2.8.8",
+		"prettier-plugin-packagejson": "^2.4.3",
+		"typescript": "^4"
+	}
+}
