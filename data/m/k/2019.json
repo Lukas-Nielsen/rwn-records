@@ -1,0 +1,364 @@
+{
+	"F": {
+		"8": {
+			"50": { "time": "0:37,34", "year": 2015, "name": "L. B. Möller" },
+			"100": { "time": "1:18,25", "year": 2015, "name": "L. B. Möller" },
+			"200": { "time": "3:03,45", "year": 2015, "name": "L. B. Möller" },
+			"400": { "time": "7:23,0", "year": 1994, "name": "G. Hinrichsen" },
+			"800": { "time": "14:46,0", "year": 1994, "name": "G. Hinrichsen" }
+		},
+		"9": {
+			"50": { "time": "0:34,3", "year": 1990, "name": "A. Jannsen" },
+			"100": { "time": "1:15,8", "year": 1990, "name": "A. Jannsen" },
+			"200": { "time": "2:41,75", "year": 2016, "name": "L. B. Möller" },
+			"400": { "time": "5:44,89", "year": 2016, "name": "L. B. Möller" },
+			"800": { "time": "13:05,4", "year": 1990, "name": "A. Jannsen" },
+			"1500": { "time": "27:02,92", "year": 2007, "name": "M. Hage" }
+		},
+		"10": {
+			"50": { "time": "0:32,0", "year": 1991, "name": "A. Jannsen" },
+			"100": { "time": "1:10,78", "year": 2017, "name": "L. B. Möller" },
+			"200": { "time": "2:37,64", "year": 2017, "name": "L. B. Möller" },
+			"400": { "time": "5:19,94", "year": 2017, "name": "L. B. Möller" },
+			"800": { "time": "11:37,10", "year": 2017, "name": "L. B. Möller" },
+			"1500": { "time": "22:07,68", "year": 2017, "name": "L. B. Möller" }
+		},
+		"11": {
+			"50": { "time": "0:30,8", "year": 1992, "name": "A. Jannsen" },
+			"100": { "time": "1:05,59", "year": 2017, "name": "M. Nielsen" },
+			"200": { "time": "2:22,8", "year": 1992, "name": "A. Jannsen" },
+			"400": { "time": "5:00,4", "year": 1992, "name": "A. Jannsen" },
+			"800": { "time": "10:28,6", "year": 1992, "name": "A. Jannsen" },
+			"1500": { "time": "20:29,06", "year": 2018, "name": "L. B. Möller" }
+		},
+		"12": {
+			"50": { "time": "0:29,0", "year": 1993, "name": "A. Jannsen" },
+			"100": { "time": "1:01,48", "year": 2018, "name": "M. Nielsen" },
+			"200": { "time": "2:11,80", "year": 2018, "name": "M. Nielsen" },
+			"400": { "time": "4:47,39", "year": 2018, "name": "M. Nielsen" },
+			"800": { "time": "10:07,49", "year": 2008, "name": "L.-K. Klüver" },
+			"1500": { "time": "19:24,05", "year": 2018, "name": "M. Nielsen" },
+			"2500": { "time": "38:15,22", "year": 2019, "name": "L. B. Möller" }
+		},
+		"13": {
+			"50": {
+				"time": "0:26,87",
+				"year": 2012,
+				"name": "E. Christiansen"
+			},
+			"100": { "time": "0:58,90", "year": 2019, "name": "M. Nielsen" },
+			"200": { "time": "2:09,88", "year": 2019, "name": "M. Nielsen" },
+			"400": { "time": "4:32,71", "year": 2019, "name": "M. Nielsen" },
+			"800": { "time": "9:25,13", "year": 2019, "name": "M. Nielsen" },
+			"1500": { "time": "18:05,19", "year": 2019, "name": "M. Nielsen" },
+			"2500": { "time": "36:10,08", "year": 2019, "name": "F. Lingke" }
+		},
+		"14": {
+			"50": {
+				"time": "0:25,57",
+				"year": 2013,
+				"name": "E. Christiansen"
+			},
+			"100": {
+				"time": "0:57,38",
+				"year": 2013,
+				"name": "E. Christiansen"
+			},
+			"200": { "time": "2:05,65", "year": 1995, "name": "A. Jannsen" },
+			"400": { "time": "4:22,45", "year": 2007, "name": "L.-H. Klüver" },
+			"800": { "time": "9:08,23", "year": 2007, "name": "L.-H. Klüver" },
+			"1500": {
+				"time": "17:22,90",
+				"year": 2007,
+				"name": "L.-H. Klüver"
+			},
+			"2500": { "time": "41:11,48", "year": 2018, "name": "T. Jügensen" },
+			"5000": { "time": "1:05:08", "year": 2007, "name": "L.-H. Klüver" }
+		},
+		"15": {
+			"50": { "time": "0:25,65", "year": 2005, "name": "L. Jendrziak" },
+			"100": { "time": "0:54,97", "year": 2008, "name": "L.-H. Klüver" },
+			"200": { "time": "1:58,25", "year": 2008, "name": "L.-H. Klüver" },
+			"400": { "time": "4:10,74", "year": 2008, "name": "L.-H. Klüver" },
+			"800": { "time": "8:38,12", "year": 2008, "name": "L.-H. Klüver" },
+			"1500": {
+				"time": "16:31,50",
+				"year": 2008,
+				"name": "L.-H. Klüver"
+			},
+			"2500": { "time": "41:11,48", "year": 2018, "name": "T. Jügensen" },
+			"5000": { "time": "1:05:37", "year": 2008, "name": "L.-H. Klüver" }
+		},
+		"16": {
+			"50": { "time": "0:24,80", "year": 2012, "name": "L.-K. Klüver" },
+			"100": { "time": "0:52,82", "year": 2009, "name": "L.-H. Klüver" },
+			"200": { "time": "1:53,54", "year": 2009, "name": "L.-H. Klüver" },
+			"400": { "time": "4:01,00", "year": 2009, "name": "L.-H. Klüver" },
+			"800": { "time": "8:21,50", "year": 2009, "name": "L.-H. Klüver" },
+			"1500": {
+				"time": "15:58,03",
+				"year": 2009,
+				"name": "L.-H. Klüver"
+			},
+			"2500": {
+				"time": "31:30,34",
+				"year": 2012,
+				"name": "L.-K. Klüver"
+			},
+			"5000": {
+				"time": "1:05:18,60",
+				"year": 2012,
+				"name": "L.-K. Klüver"
+			},
+			"10000": {
+				"time": "2:23:48",
+				"year": 2006,
+				"name": "L. Betka-Christiansen"
+			}
+		},
+		"open": {
+			"50": { "time": "0:22,51", "year": 2018, "name": "L.-H. Klüver" },
+			"100": { "time": "0:49,31", "year": 2018, "name": "L.-H. Klüver" },
+			"200": { "time": "1:48,10", "year": 2017, "name": "L.-H. Klüver" },
+			"400": { "time": "3:53,97", "year": 2012, "name": "L.-H. Klüver" },
+			"800": { "time": "8:04,92", "year": 2012, "name": "L.-H. Klüver" },
+			"1500": {
+				"time": "15:58,03",
+				"year": 2009,
+				"name": "L.-H. Klüver"
+			},
+			"5000": {
+				"time": "0:58:58,2",
+				"year": 2005,
+				"name": "G. Hinrichsen"
+			},
+			"10000": {
+				"time": "2:02:17,0",
+				"year": 2005,
+				"name": "G. Hinrichsen"
+			},
+			"25000": {
+				"time": "6:05:47",
+				"year": 2006,
+				"name": "G. Hinrichsen"
+			}
+		}
+	},
+	"B": {
+		"8": {
+			"50": { "time": "0:50,86", "year": 2010, "name": "E. Weinbach" },
+			"100": { "time": "1:56,0", "year": 1989, "name": "A. Jannsen" }
+		},
+		"9": {
+			"50": { "time": "0:47,2", "year": 1990, "name": "A. Jannsen" },
+			"100": { "time": "1:43,4", "year": 1990, "name": "A. Jannsen" },
+			"200": { "time": "3:49,89", "year": 2019, "name": "H. Möller" }
+		},
+		"10": {
+			"50": { "time": "0:43,9", "year": 1994, "name": "E. Elsäßer" },
+			"100": { "time": "1:38,20", "year": 2002, "name": "F. Erdmann" },
+			"200": { "time": "3:33,13", "year": 1996, "name": "G. Hinrichsen" }
+		},
+		"11": {
+			"50": { "time": "0:41,45", "year": 2003, "name": "F. Erdmann" },
+			"100": { "time": "1:28,72", "year": 1995, "name": "E. Elsäßer" },
+			"200": { "time": "3:13,78", "year": 2013, "name": "E. Weinbach" }
+		},
+		"12": {
+			"50": { "time": "0:38,27", "year": 1996, "name": "E. Elsäßer" },
+			"100": { "time": "1:20,36", "year": 1996, "name": "E. Elsäßer" },
+			"200": { "time": "2:56,15", "year": 2006, "name": "J. Winkelmann" }
+		},
+		"13": {
+			"50": { "time": "0:35,43", "year": 1997, "name": "E. Elsäßer" },
+			"100": { "time": "1:19,00", "year": 2006, "name": "D. C. Jepsen" },
+			"200": { "time": "2:48,58", "year": 2006, "name": "D. C. Jepsen" }
+		},
+		"14": {
+			"50": { "time": "0:34,03", "year": 2008, "name": "J. Winkelmann" },
+			"100": { "time": "1:14,37", "year": 2008, "name": "J. Winkelmann" },
+			"200": { "time": "2:41,19", "year": 2007, "name": "D. C. Jepsen" }
+		},
+		"15": {
+			"50": { "time": "0:32,29", "year": 2009, "name": "J. Winkelmann" },
+			"100": { "time": "1:11,82", "year": 2009, "name": "J. Winkelmann" },
+			"200": { "time": "2:38,33", "year": 1994, "name": "O. Hinrichsen" }
+		},
+		"16": {
+			"50": { "time": "0:32,16", "year": 2012, "name": "L.-K. Klüver" },
+			"100": { "time": "1:09,81", "year": 2009, "name": "L.-K. Klüver" },
+			"200": { "time": "2:33,97", "year": 2009, "name": "L.-H. Klüver" }
+		},
+		"open": {
+			"50": { "time": "0:28,26", "year": 2018, "name": "L.-H. Klüver" },
+			"100": { "time": "1:02,92", "year": 2018, "name": "L.-H. Klüver" },
+			"200": { "time": "2:22,76", "year": 2017, "name": "L.-H. Klüver" }
+		}
+	},
+	"R": {
+		"8": {
+			"50": { "time": "0:44,80", "year": 2018, "name": "H. Möller" },
+			"100": { "time": "1:37,17", "year": 2018, "name": "H. Möller" },
+			"200": { "time": "3:37,52", "year": 2018, "name": "H. Möller" }
+		},
+		"9": {
+			"50": { "time": "0:41,06", "year": 2018, "name": "H. Möller" },
+			"100": { "time": "1:27,90", "year": 2018, "name": "H. Möller" },
+			"200": { "time": "3:11,06", "year": 2018, "name": "H. Möller" }
+		},
+		"10": {
+			"50": { "time": "0:39,93", "year": 2017, "name": "L. B. Möller" },
+			"100": { "time": "1:26,22", "year": 2017, "name": "L. B. Möller" },
+			"200": { "time": "3:06,88", "year": 2016, "name": "M. Nielsen" }
+		},
+		"11": {
+			"50": { "time": "0:37,66", "year": 2018, "name": "L. B. Möller" },
+			"100": { "time": "1:20,80", "year": 2018, "name": "L. B. Möller" },
+			"200": { "time": "2:52,26", "year": 2018, "name": "L. B. Möller" }
+		},
+		"12": {
+			"50": { "time": "0:33,67", "year": 2018, "name": "M. Nielsen" },
+			"100": { "time": "1:13,14", "year": 2018, "name": "M. Nielsen" },
+			"200": { "time": "2:39,75", "year": 2006, "name": "J. Winkelmann" }
+		},
+		"13": {
+			"50": { "time": "0:30,16", "year": 2007, "name": "J. Winkelmann" },
+			"100": { "time": "1:05,91", "year": 2007, "name": "J. Winkelmann" },
+			"200": { "time": "2:25,31", "year": 2007, "name": "J. Winkelmann" }
+		},
+		"14": {
+			"50": { "time": "0:29,78", "year": 2008, "name": "J. Winkelmann" },
+			"100": { "time": "1:03,48", "year": 2008, "name": "J. Winkelmann" },
+			"200": { "time": "2:21,74", "year": 2008, "name": "J. Winkelmann" }
+		},
+		"15": {
+			"50": { "time": "0:29,23", "year": 2009, "name": "J. Winkelmann" },
+			"100": { "time": "1:03,33", "year": 2009, "name": "J. Winkelmann" },
+			"200": { "time": "2:18,91", "year": 2009, "name": "L.-H. Klüver" }
+		},
+		"16": {
+			"50": { "time": "0:28,73", "year": 2007, "name": "P. Mumm" },
+			"100": { "time": "1:00,23", "year": 2007, "name": "P. Mumm" },
+			"200": { "time": "2:09,62", "year": 2007, "name": "P. Mumm" }
+		},
+		"open": {
+			"50": { "time": "0:25,39", "year": 2018, "name": "L.-H. Klüver" },
+			"100": { "time": "0:55,34", "year": 2017, "name": "L.-H. Klüver" },
+			"200": { "time": "2:05,19", "year": 2017, "name": "L.-H. Klüver" }
+		}
+	},
+	"S": {
+		"8": {
+			"50": { "time": "0:50,08", "year": 2018, "name": "H. Möller" }
+		},
+		"9": {
+			"50": { "time": "0:41,1", "year": 90, "name": "A. Jannsen" },
+			"100": { "time": "1:41,50", "year": 2019, "name": "H. Möller" }
+		},
+		"10": {
+			"50": { "time": "0:37,5", "year": 91, "name": "A. Jannsen" },
+			"100": { "time": "1:26,2", "year": 87, "name": "T. Griebel" },
+			"200": { "time": "3:33,54", "year": 2017, "name": "L. B. Möller" }
+		},
+		"11": {
+			"50": { "time": "0:36,5", "year": 88, "name": "T. Griebel" },
+			"100": { "time": "1:22,02", "year": 2013, "name": "E. Weinbach" },
+			"200": { "time": "3:19,15", "year": 2004, "name": "D. C. Jepsen" }
+		},
+		"12": {
+			"50": {
+				"time": "0:33,08",
+				"year": 2011,
+				"name": "E. Christiansen"
+			},
+			"100": { "time": "1:16,66", "year": 96, "name": "E. Elsäßer" },
+			"200": { "time": "2:48,85", "year": 96, "name": "E. Elsäßer" }
+		},
+		"13": {
+			"50": { "time": "0:29,57", "year": 2019, "name": "M. Nielsen" },
+			"100": { "time": "1:10,40", "year": 2011, "name": "M. Hage" },
+			"200": { "time": "2:40,04", "year": 2011, "name": "M. Hage" }
+		},
+		"14": {
+			"50": {
+				"time": "0:28,39",
+				"year": 2013,
+				"name": "E. Christiansen"
+			},
+			"100": { "time": "1:04,82", "year": 2007, "name": "D. C. Jepsen" },
+			"200": { "time": "2:27,88", "year": 2012, "name": "M. Hage" }
+		},
+		"15": {
+			"50": { "time": "0:27,94", "year": 2008, "name": "D. C. Jepsen" },
+			"100": { "time": "1:02,44", "year": 2008, "name": "D. C. Jepsen" },
+			"200": {
+				"time": "2:23,52",
+				"year": 2005,
+				"name": "L. Betka-Christiansen"
+			}
+		},
+		"16": {
+			"50": { "time": "0:26,76", "year": 2009, "name": "D. C. Jepsen" },
+			"100": { "time": "1:00,74", "year": 2009, "name": "L.-H. Klüver" },
+			"200": { "time": "2:17,86", "year": 2009, "name": "L.-H. Klüver" }
+		},
+		"open": {
+			"50": { "time": "0:25,38", "year": 2014, "name": "L.-H. Klüver" },
+			"100": { "time": "0:56,47", "year": 2017, "name": "L.-H. Klüver" },
+			"200": {
+				"time": "2:09,33",
+				"year": 2008,
+				"name": "L. Betka-Christiansen"
+			}
+		}
+	},
+	"L": {
+		"8": {
+			"100": { "time": "1:40,63", "year": 2015, "name": "L. B. Möller" }
+		},
+		"9": {
+			"100": { "time": "1:32,17", "year": 2016, "name": "L. B. Möller" },
+			"200": { "time": "3:11,40", "year": 2016, "name": "L. B. Möller" }
+		},
+		"10": {
+			"100": { "time": "1:26,5", "year": 1991, "name": "A. Jannsen" },
+			"200": { "time": "3:03,85", "year": 2017, "name": "L. B. Möller" },
+			"400": { "time": "6:35,78", "year": 2017, "name": "L. B. Möller" }
+		},
+		"11": {
+			"100": { "time": "1:19,2", "year": 1992, "name": "A. Jannsen" },
+			"200": { "time": "2:51,1", "year": 1992, "name": "A. Jannsen" },
+			"400": { "time": "6:06,3", "year": 1988, "name": "T. Griebel" }
+		},
+		"12": {
+			"100": { "time": "1:15,1", "year": 1993, "name": "A. Jannsen" },
+			"200": { "time": "2:33,92", "year": 2018, "name": "M. Nielsen" },
+			"400": { "time": "5:42,06", "year": 2018, "name": "M. Nielsen" }
+		},
+		"13": {
+			"100": { "time": "1:08,51", "year": 2019, "name": "M. Nielsen" },
+			"200": { "time": "2:26,16", "year": 2019, "name": "M. Nielsen" },
+			"400": { "time": "5:21,48", "year": 2006, "name": "D. C. Jepsen" }
+		},
+		"14": {
+			"100": { "time": "1:07,47", "year": 2007, "name": "D. C. Jepsen" },
+			"200": { "time": "2:23,14", "year": 2007, "name": "D. C. Jepsen" },
+			"400": { "time": "5:02,25", "year": 2007, "name": "D. C. Jepsen" }
+		},
+		"15": {
+			"100": { "time": "1:03,13", "year": 2009, "name": "J. Winkelmann" },
+			"200": { "time": "2:17,28", "year": 2008, "name": "L.-H. Klüver" },
+			"400": { "time": "4:57,22", "year": 2008, "name": "L.-H. Klüver" }
+		},
+		"16": {
+			"100": { "time": "1:00,93", "year": 2009, "name": "L.-H. Klüver" },
+			"200": { "time": "2:12,71", "year": 2009, "name": "L.-H. Klüver" },
+			"400": { "time": "4:42,45", "year": 2012, "name": "L.-K. Klüver" }
+		},
+		"open": {
+			"100": { "time": "0:55,55", "year": 2018, "name": "L.-H. Klüver" },
+			"200": { "time": "2:06,29", "year": 2017, "name": "L.-H. Klüver" },
+			"400": { "time": "4:35,21", "year": 2011, "name": "L.-H. Klüver" }
+		}
+	}
+}
