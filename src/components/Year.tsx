@@ -48,7 +48,7 @@ export const Year = (props: { year: number; gender: gender; type: type }) => {
 
 	useEffect(() => {
 		if (data) {
-			let temp: ReactNode[] = [];
+			const temp: ReactNode[] = [];
 			let k: keyof records;
 			for (k in data) {
 				temp.push(

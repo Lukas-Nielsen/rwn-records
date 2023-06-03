@@ -14,7 +14,7 @@ export const Age = (props: {
 
 	useEffect(() => {
 		if (props.data) {
-			let temp: ReactNode[] = [];
+			const temp: ReactNode[] = [];
 			let k: keyof age;
 			for (k in props.data) {
 				if (props.data[k] !== undefined) {

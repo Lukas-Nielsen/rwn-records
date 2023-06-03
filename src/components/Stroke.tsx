@@ -24,7 +24,7 @@ export const Stroke = (props: {
 
 	useEffect(() => {
 		if (props.data) {
-			let temp: ReactNode[] = [];
+			const temp: ReactNode[] = [];
 			let k: keyof stroke;
 			for (k in props.data) {
 				if (props.data[k] !== undefined) {

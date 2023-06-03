@@ -1,5 +1,6 @@
 import { typecheckPlugin } from "@jgoz/esbuild-plugin-typecheck";
 import * as esbuild from "esbuild";
+import eslint from "esbuild-plugin-eslint";
 
 let ctx = await esbuild.context({
 	entryPoints: ["src/index.tsx"],
@@ -8,12 +9,12 @@ let ctx = await esbuild.context({
 	define: {
 		"process.env.NODE_ENV": '"development"',
 	},
-	plugins: [typecheckPlugin({ watch: true })],
+	plugins: [typecheckPlugin({ watch: true }), eslint()],
 });
 
 await ctx.watch();
 
-let { host, port } = await ctx.serve({
+await ctx.serve({
 	servedir: "public",
 	port: 3000,
 });
