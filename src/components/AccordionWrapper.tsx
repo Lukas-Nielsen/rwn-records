@@ -1,15 +1,27 @@
 import React from "react";
-import { Accordion, AccordionPorps } from "chayns-components";
+import { Accordion, AccordionContent } from "@chayns-components/core";
+import type { AccordionProps } from "@chayns-components/core/lib/components/accordion/Accordion";
 
-export const AccordionWrapper = ({ children, ...props }: AccordionPorps) => {
+export const AccordionWrapper = ({ children, ...props }: AccordionProps) => {
 	if (props.isWrapped) {
 		return (
 			<Accordion {...props}>
-				<div style={{ paddingLeft: "0.5rem", paddingBottom: "0.5rem" }}>
-					{children}
-				</div>
+				<AccordionContent>
+					<div
+						style={{
+							paddingLeft: "0.5rem",
+							paddingBottom: "0.5rem",
+						}}
+					>
+						{children}
+					</div>
+				</AccordionContent>
 			</Accordion>
 		);
 	}
-	return <Accordion {...props} children={children} />;
+	return (
+		<Accordion {...props}>
+			<AccordionContent children={children} />
+		</Accordion>
+	);
 };

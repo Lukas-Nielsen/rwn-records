@@ -2,6 +2,7 @@ import React, { ReactNode, useEffect, useState } from "react";
 import { records, stroke } from "types/record";
 import { Age } from "./Age";
 import { AccordionWrapper } from "./AccordionWrapper";
+import { AccordionGroup } from "@chayns-components/core";
 
 type strokesType = keyof records;
 
@@ -44,13 +45,10 @@ export const Stroke = (props: {
 			setRenderData(temp);
 		}
 	}, [props.data]);
+
 	return (
-		<AccordionWrapper
-			head={`${strokes[props.stroke]}`}
-			dataGroup="stroke"
-			isWrapped
-		>
-			{renderData}
+		<AccordionWrapper title={`${strokes[props.stroke]}`} isWrapped>
+			<AccordionGroup>{renderData}</AccordionGroup>
 		</AccordionWrapper>
 	);
 };

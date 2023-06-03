@@ -36,10 +36,10 @@ export const Age = (props: {
 	}, [props.data]);
 	return (
 		<AccordionWrapper
-			head={props.age === "open" ? "offene Klasse" : `${props.age} Jahre`}
-			dataGroup="age"
+			title={
+				props.age === "open" ? "offene Klasse" : `${props.age} Jahre`
+			}
 			isWrapped
-			removeContentClosed
 		>
 			<div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
 				{renderData}

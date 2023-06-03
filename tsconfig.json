@@ -14,5 +14,6 @@
 		"noEmit": true,
 		"skipLibCheck": true,
 		"strict": true
-	}
+	},
+	"exclude": ["./public"]
 }
