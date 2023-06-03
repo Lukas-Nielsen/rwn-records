@@ -1,3 +1,4 @@
+import { typecheckPlugin } from "@jgoz/esbuild-plugin-typecheck";
 import * as esbuild from "esbuild";
 
 let ctx = await esbuild.context({
@@ -7,6 +8,7 @@ let ctx = await esbuild.context({
 	define: {
 		"process.env.NODE_ENV": '"development"',
 	},
+	plugins: [typecheckPlugin({ watch: true })],
 });
 
 await ctx.watch();
