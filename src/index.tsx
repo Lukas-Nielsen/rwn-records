@@ -9,6 +9,13 @@ if (element) {
 }
 
 if (process.env.NODE_ENV && process.env.NODE_ENV === "development")
-	new EventSource("esbuild").addEventListener("change", () =>
-		location.reload()
-	);
+	new EventSource("esbuild").addEventListener("change", () => {
+		document.querySelectorAll("script").forEach((script) => {
+			if (script.src.includes("assets/app.js")) {
+				script.remove();
+			}
+		});
+		const script = document.createElement("script");
+		script.src = `assets/app.js?cache=${new Date().getTime()}`;
+		document.querySelector("body")?.append(script);
+	});
