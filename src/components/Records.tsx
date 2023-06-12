@@ -1,8 +1,11 @@
 import React from "react";
-import { arrayRange } from "functions/arrayRange";
+import { arrayRange } from "@/functions/arrayRange";
 import { Year, gender, type } from "./Year";
-import { AccordionWrapper } from "./AccordionWrapper";
-import { AccordionGroup } from "@chayns-components/core";
+import {
+	Accordion,
+	AccordionContent,
+	AccordionGroup,
+} from "@chayns-components/core";
 
 export const Records = () => {
 	const gender: gender[] = ["m", "w"];
@@ -12,40 +15,41 @@ export const Records = () => {
 		<AccordionGroup>
 			{gender.map((genderItem) => {
 				return (
-					<AccordionWrapper
+					<Accordion
 						key={genderItem}
 						title={genderItem === "m" ? "Männer" : "Frauen"}
-						isWrapped
 					>
-						<AccordionGroup>
-							{type.map((typeItem) => {
-								return (
-									<AccordionWrapper
-										key={typeItem}
-										title={
-											typeItem === "k"
-												? "Kreis"
-												: "Verein"
-										}
-										isWrapped
-									>
-										<AccordionGroup>
-											{years.map((year) => {
-												return (
-													<Year
-														key={year}
-														year={year}
-														gender={genderItem}
-														type={typeItem}
-													/>
-												);
-											})}
-										</AccordionGroup>
-									</AccordionWrapper>
-								);
-							})}
-						</AccordionGroup>
-					</AccordionWrapper>
+						<AccordionContent>
+							<AccordionGroup>
+								{type.map((typeItem) => {
+									return (
+										<Accordion
+											key={typeItem}
+											title={
+												typeItem === "k"
+													? "Kreis"
+													: "Verein"
+											}
+											isWrapped
+										>
+											<AccordionGroup>
+												{years.map((year) => {
+													return (
+														<Year
+															key={year}
+															year={year}
+															gender={genderItem}
+															type={typeItem}
+														/>
+													);
+												})}
+											</AccordionGroup>
+										</Accordion>
+									);
+								})}
+							</AccordionGroup>
+						</AccordionContent>
+					</Accordion>
 				);
 			})}
 		</AccordionGroup>

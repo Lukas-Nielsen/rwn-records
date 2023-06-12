@@ -1,4 +1,4 @@
-import { stringToTime } from "functions/stringToTime";
+import { stringToTime } from "@/functions/stringToTime";
 import React from "react";
 import type { age, record } from "types/record";
 

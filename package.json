@@ -7,12 +7,10 @@
 		"chayns",
 		"react"
 	],
-	"homepage": ".",
 	"scripts": {
-		"build": "node build.mjs",
-		"dev": "node serve.mjs",
-		"format": "prettier . --write",
-		"start": "node serve.mjs"
+		"build": "vite build",
+		"dev": "vite",
+		"format": "prettier . --write"
 	},
 	"browserslist": {
 		"production": [
@@ -34,22 +32,21 @@
 	},
 	"dependencies": {
 		"@chayns-components/core": "^5.0.0-beta.189",
-		"chayns-api": "^1.0.27",
 		"prop-types": "^15.8.1",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
-		"@jgoz/esbuild-plugin-typecheck": "^3.0.2",
 		"@types/node": "^20.3.0",
 		"@types/react": "^18.2.11",
 		"@types/react-dom": "^18.2.4",
 		"@typescript-eslint/eslint-plugin": "^5.59.9",
 		"@typescript-eslint/parser": "^5.59.8",
-		"esbuild": "^0.17.19",
-		"esbuild-plugin-eslint": "^0.3.6",
+		"@vitejs/plugin-react": "^4.0.0",
 		"prettier": "^2.8.8",
 		"prettier-plugin-packagejson": "^2.4.3",
-		"typescript": "^5.1.3"
+		"typescript": "^5.1.3",
+		"vite": "^4.3.9",
+		"vite-plugin-checker": "^0.6.0"
 	}
 }

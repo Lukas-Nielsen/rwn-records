@@ -1,7 +1,7 @@
 import React, { ReactNode, useEffect, useState } from "react";
 import { age, records, stroke } from "types/record";
+import { Accordion, AccordionContent } from "@chayns-components/core";
 import { Record } from "./Record";
-import { AccordionWrapper } from "./AccordionWrapper";
 
 export const Age = (props: {
 	data: age;
@@ -34,16 +34,25 @@ export const Age = (props: {
 			setRenderData(temp);
 		}
 	}, [props.data]);
+
 	return (
-		<AccordionWrapper
+		<Accordion
 			title={
 				props.age === "open" ? "offene Klasse" : `${props.age} Jahre`
 			}
 			isWrapped
 		>
-			<div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-				{renderData}
-			</div>
-		</AccordionWrapper>
+			<AccordionContent>
+				<div
+					style={{
+						display: "flex",
+						flexWrap: "wrap",
+						gap: "0.5rem",
+					}}
+				>
+					{renderData}
+				</div>
+			</AccordionContent>
+		</Accordion>
 	);
 };

@@ -1,8 +1,7 @@
 import React, { ReactNode, useEffect, useState } from "react";
 import { records } from "types/record";
 import { Stroke } from "./Stroke";
-import { AccordionWrapper } from "./AccordionWrapper";
-import { AccordionGroup } from "@chayns-components/core";
+import { Accordion, AccordionGroup } from "@chayns-components/core";
 
 export type gender = "m" | "w";
 export type type = "k" | "v";
@@ -70,8 +69,8 @@ export const Year = (props: { year: number; gender: gender; type: type }) => {
 	}
 
 	return (
-		<AccordionWrapper title={props.year.toString()} isWrapped>
+		<Accordion title={props.year.toString()} isWrapped>
 			<AccordionGroup>{renderData}</AccordionGroup>
-		</AccordionWrapper>
+		</Accordion>
 	);
 };
