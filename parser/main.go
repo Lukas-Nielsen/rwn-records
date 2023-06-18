@@ -67,6 +67,7 @@ func main() {
 func getInput() string {
 	inputFile, err := os.Open("./input.txt")
 	if err != nil {
+		fmt.Println(err)
 		return ""
 	}
 	defer inputFile.Close()
