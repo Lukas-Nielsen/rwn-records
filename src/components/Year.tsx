@@ -57,7 +57,7 @@ export const Year = (props: { year: number; gender: gender; type: type }) => {
 						prevData={prevData ? prevData[k] : undefined}
 						stroke={k}
 						year={props.year}
-					/>
+					/>,
 				);
 			}
 			setRenderData(temp);

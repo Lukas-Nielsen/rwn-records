@@ -27,7 +27,7 @@ export const Age = (props: {
 							}
 							meters={k}
 							year={props.year}
-						/>
+						/>,
 					);
 				}
 			}
@@ -38,7 +38,9 @@ export const Age = (props: {
 	return (
 		<Accordion
 			title={
-				props.age === "open" ? "offene Klasse" : `${props.age} Jahre`
+				props.age === "open"
+					? "offene Klasse"
+					: `${props.age} Jahre (${props.year - parseInt(props.age)})`
 			}
 			isWrapped
 		>

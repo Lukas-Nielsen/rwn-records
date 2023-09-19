@@ -37,7 +37,7 @@ export const Stroke = (props: {
 							stroke={props.stroke}
 							age={k}
 							year={props.year}
-						/>
+						/>,
 					);
 				}
 			}
