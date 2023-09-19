@@ -6,10 +6,10 @@
 			"200": { "time": "3:41,29", "year": 2022, "name": "G. Petersen" }
 		},
 		"9": {
-			"50": { "time": "0:37,89", "year": 2023, "name": "G. Petersen" },
-			"100": { "time": "1:26,12", "year": 2001, "name": "L. Treinat" },
-			"200": { "time": "3:08,74", "year": 2013, "name": "K. Möller" },
-			"400": { "time": "6:40,56", "year": 2013, "name": "K. Möller" },
+			"50": { "time": "0:36,97", "year": 2023, "name": "G. Petersen" },
+			"100": { "time": "1:22,37", "year": 2023, "name": "G. Petersen" },
+			"200": { "time": "3:02,25", "year": 2023, "name": "G. Petersen" },
+			"400": { "time": "6:21,09", "year": 2023, "name": "G. Petersen" },
 			"800": { "time": "15:30,0", "year": 1993, "name": "I. Hinrichsen" }
 		},
 		"10": {
@@ -34,7 +34,7 @@
 			"200": { "time": "2:18,40", "year": 2005, "name": "A. Benck" },
 			"400": { "time": "4:51,48", "year": 2005, "name": "A. Benck" },
 			"800": { "time": "10:18,50", "year": 2005, "name": "A. Benck" },
-			"1500": { "time": "20:11,13", "year": 2023, "name": "R. Thiesen" },
+			"1500": { "time": "19:58,07", "year": 2023, "name": "R. Thiesen" },
 			"2500": { "time": "38:00,21", "year": 2017, "name": "J. Weinbach" }
 		},
 		"13": {
@@ -75,8 +75,8 @@
 			"5000": { "time": "1:12:07", "year": 2019, "name": "K. Möller" }
 		},
 		"16": {
-			"50": { "time": "0:27,39", "year": 2023, "name": "L. Hinrichsen" },
-			"100": { "time": "1:00,53", "year": 2006, "name": "S. Talis" },
+			"50": { "time": "0:26,75", "year": 2023, "name": "L. Hinrichsen" },
+			"100": { "time": "0:59,75", "year": 2023, "name": "L. Hinrichsen" },
 			"200": { "time": "2:09,46", "year": 2015, "name": "M. Weinbach" },
 			"400": { "time": "4:29,03", "year": 2015, "name": "M. Weinbach" },
 			"800": { "time": "9:19,24", "year": 2015, "name": "M. Weinbach" },
@@ -86,8 +86,8 @@
 			"10000": { "time": "2:41:43", "year": 2008, "name": "T. Albers" }
 		},
 		"open": {
-			"50": { "time": "0:26,87", "year": 2022, "name": "L. Hinrichsen" },
-			"100": { "time": "1:00,28", "year": 2022, "name": "L. Hinrichsen" },
+			"50": { "time": "0:26,75", "year": 2023, "name": "L. Hinrichsen" },
+			"100": { "time": "0:59,75", "year": 2023, "name": "L. Hinrichsen" },
 			"200": { "time": "2:09,46", "year": 2015, "name": "M. Weinbach" },
 			"400": { "time": "4:29,03", "year": 2015, "name": "M. Weinbach" },
 			"800": { "time": "9:19,24", "year": 2015, "name": "M. Weinbach" },
@@ -145,7 +145,7 @@
 		"open": {
 			"50": { "time": "0:33,76", "year": 2020, "name": "A. Divelbiss" },
 			"100": { "time": "1:14,59", "year": 2020, "name": "A. Divelbiss" },
-			"200": { "time": "2:49,98", "year": 1996, "name": "K. Hinrichsen" }
+			"200": { "time": "2:49,62", "year": 2023, "name": "F. Domeyer" }
 		}
 	},
 	"R": {
@@ -169,7 +169,7 @@
 			"200": { "time": "3:20,44", "year": 2014, "name": "T. Nielsen" }
 		},
 		"11": {
-			"50": { "time": "0:38,97", "year": 2015, "name": "K. Möller" },
+			"50": { "time": "0:38,89", "year": 2023, "name": "V. Khramkov" },
 			"100": { "time": "1:23,49", "year": 2022, "name": "R. Thiesen" },
 			"200": { "time": "2:57,89", "year": 2015, "name": "K. Möller" }
 		},
@@ -194,7 +194,7 @@
 			"200": { "time": "2:31,11", "year": 2019, "name": "K. Möller" }
 		},
 		"16": {
-			"50": { "time": "0:32,82", "year": 2015, "name": "L. M. Erichson" },
+			"50": { "time": "0:31,81", "year": 2023, "name": "L. Hinrichsen" },
 			"100": { "time": "1:10,28", "year": 2008, "name": "H. Karstensen" },
 			"200": { "time": "2:31,78", "year": 2020, "name": "K. Möller" }
 		},
@@ -259,8 +259,8 @@
 			"100": { "time": "2:03,61", "year": 2022, "name": "G. Petersen" }
 		},
 		"9": {
-			"100": { "time": "1:40,82", "year": 2003, "name": "L. Steensen" },
-			"200": { "time": "3:43,44", "year": 2001, "name": "L. Treinat" }
+			"100": { "time": "1:40,03", "year": 2023, "name": "G. Petersen" },
+			"200": { "time": "3:39,69", "year": 2023, "name": "G. Petersen" }
 		},
 		"10": {
 			"100": { "time": "1:33,64", "year": 2015, "name": "J. Weinbach" },
@@ -297,7 +297,7 @@
 			"400": { "time": "5:29,59", "year": 2019, "name": "K. Möller" }
 		},
 		"16": {
-			"100": { "time": "1:09,95", "year": 2023, "name": "L. Hinrichsen" },
+			"100": { "time": "1:08,14", "year": 2023, "name": "L. Hinrichsen" },
 			"200": {
 				"time": "2:34,10",
 				"year": 2015,
@@ -306,7 +306,7 @@
 			"400": { "time": "5:33,04", "year": 2020, "name": "K. Möller" }
 		},
 		"open": {
-			"100": { "time": "1:09,95", "year": 2023, "name": "L. Hinrichsen" },
+			"100": { "time": "1:08,14", "year": 2023, "name": "L. Hinrichsen" },
 			"200": {
 				"time": "2:32,44",
 				"year": 2016,

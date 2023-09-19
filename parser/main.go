@@ -35,7 +35,7 @@ func main() {
 					fmt.Println(v[1:], ageDiff)
 				}
 			}
-			tempV := data[v[1]]["k"][v[5]][fmt.Sprint(ageDiff)]
+			tempV := data[v[1]]["v"][v[5]][fmt.Sprint(ageDiff)]
 			if val, ok := tempV[v[4]]; ok {
 				recordKTime := stringToTime(val.Time)
 				if newTime < recordKTime {
@@ -53,7 +53,7 @@ func main() {
 				fmt.Println(v[1:])
 			}
 		}
-		tempV := data[v[1]]["k"][v[5]]["open"]
+		tempV := data[v[1]]["v"][v[5]]["open"]
 		if val, ok := tempV[v[4]]; ok {
 			recordKTime := stringToTime(val.Time)
 			if newTime < recordKTime {
