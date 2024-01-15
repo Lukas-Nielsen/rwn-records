@@ -31,7 +31,7 @@
 		"useTabs": true
 	},
 	"dependencies": {
-		"@chayns-components/core": "^5.0.0-beta.375",
+		"@chayns-components/core": "^5.0.0-beta.392",
 		"chayns-api": "^1.0.44",
 		"prop-types": "^15.8.1",
 		"react": "^18.2.0",
